@@ -10,3 +10,4 @@ int main(){
 	printf("%.3lf", sum);
     return 0;
 }
+
